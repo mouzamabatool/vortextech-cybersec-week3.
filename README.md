@@ -45,5 +45,3 @@ docker run -d -p 3000:3000 bkimminich/juice-shop
 Scope & ethics
 
 Only a local, intentionally vulnerable practice instance was tested. No real production system was touched.
-
-# vortextech-cybersec-week3.
